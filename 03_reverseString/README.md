@@ -1,6 +1,6 @@
 # Exercise 03 - Reverse a String
 
-Pretty simple, write a function called `reverseString` that returns its input, reversed!
+Prts input, reveetty simple, write a function called `reverseString` that returns irsed!
 
 ```javascript
 reverseString('hello there') // returns 'ereht olleh'
